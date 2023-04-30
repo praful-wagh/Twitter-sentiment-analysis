@@ -1,3 +1,10 @@
+## Project Overview
+
+This project contains two versions of the Twitter Sentiment Analysis:
+
+Version 1: A Logistic Regression model was trained using an average CountVectorizer, achieving an accuracy of 90%
+Version 2: A deep learning model was trained using a Long Short-Term Memory (LSTM) network with a Sequential model in TensorFlow and Keras, achieving an accuracy of 93%.
+
 # Twitter Sentiment Analysis
 
 This project aims to analyze the sentiment of tweets from Twitter using machine learning and deep learning techniques. The dataset used for training and testing the models is a collection of 1.6 million tweets, containing equal numbers of positive and negative tweets.
