@@ -3,6 +3,7 @@
 This project contains two versions of the Twitter Sentiment Analysis:
 
 Version 1: A Logistic Regression model was trained using an average CountVectorizer, achieving an accuracy of 90%
+
 Version 2: A deep learning model was trained using a Long Short-Term Memory (LSTM) network with a Sequential model in TensorFlow and Keras, achieving an accuracy of 93%.
 
 # Twitter Sentiment Analysis
